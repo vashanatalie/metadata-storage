@@ -50,4 +50,3 @@ contract MetadataStorage {
         return metadataRecords[_id];
     }
 }
-fr
